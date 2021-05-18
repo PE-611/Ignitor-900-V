@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetR3_2 Pin=Jumper1-1
+Removed Pin From Net: NetName=NetR3_2 Pin=Jumper1-2
+Removed Pin From Net: NetName=GND Pin=Jumper-1
+Removed Pin From Net: NetName=GND Pin=Jumper-2
+Change Component DesignItemId : Designator=R11 Old DesignItemId=Resistor_0805 New DesignItemId=Resistor_1206
+Change Component Footprint: Designator=R11 Old Footprint=RES: 0805 New Footprint=RES: 1206
+Change Component Comment : Designator=R11 Old Comment=Resistor film, 9R1, ±5%, 0805, 0.125W, -55...+125°C New Comment=Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES: 0805"; UniqueID = "\TKBYTVDP" ("\TKBYTVDP")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC1206JR-07100RL/311-100ERCT-ND/732153"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC1206JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100R, ±5%, 1206, 0.25W, -55...+125°C"; VariantName = "[No Variations]"

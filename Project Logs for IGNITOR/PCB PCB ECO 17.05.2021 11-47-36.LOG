@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetR3_2 Pin=JMP-1
+Removed Pin From Net: NetName=NetR3_2 Pin=JMP-2
+Removed Pin From Net: NetName=NetC9_2 Pin=VD5-
+Removed Pin From Net: NetName=NetC1_1 Pin=X3-2
+Removed Pin From Net: NetName=GND Pin=X4-1
+Change Component Footprint: Designator=VT3 Old Footprint=TO220 New Footprint=TO-220 HV
+Change component parameters: Designator = "VT1" ("VT1"); Footprint = "DPAK"; UniqueID = "\AVBQKHSM" ("\AVBQKHSM")
+Change component parameters (AddParameter): Name = "CurrentDS"; Value = "2.6A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateCharge"; Value = "2.9nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/infineon-technologies/IRLML2246TRPBF/IRLML2246TRPBFCT-ND/2639576"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "InputCapacitor"; Value = "220pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxPower"; Value = "2.5W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "IRFU5305"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDS"; Value = "135mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeTransistor"; Value = "MOSFET P-channel transistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "MOSFET P-channel transistor, 20V, 2.6A, 2.9nC, 2.5W, 135mOhm, 220pF, SOT-23, -55...+150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageDS"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT2" ("VT2"); Footprint = "SOT23"; UniqueID = "\VYPCMQOK" ("\VYPCMQOK")
+Change component parameters (AddParameter): Name = "CurrentCE"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentGain"; Value = "420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/BC847CLT1G/BC847CLT1GOSCT-ND/917836"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxPower"; Value = "300mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC817"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeTransistor"; Value = "NPN transistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageCE"; Value = "45V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageSaturation"; Value = "0.6V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT3" ("VT3"); Footprint = "TO220"; UniqueID = "\YYADTNIX" ("\YYADTNIX")
+Change component parameters (AddParameter): Name = "CurrentDS"; Value = "7A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateCharge"; Value = "9.1nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/infineon-technologies/BSC340N08NS3GATMA1/BSC340N08NS3GATMA1TR-ND/2080655"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "InputCapacitor"; Value = "756pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxPower"; Value = "2.5W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8-TDSON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "STF6NK90Z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDS"; Value = "34mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeTransistor"; Value = "MOSFET N-channel transistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageDS"; Value = "80V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT4" ("VT4"); Footprint = "TO247"; UniqueID = "\RCSVYVQS" ("\RCSVYVQS")
+Change component parameters (AddParameter): Name = "CurrentCE"; Value = "40A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateCharge"; Value = "40nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/rohm-semiconductor/RGTH40TS65GC11/RGTH40TS65GC11-ND/5029953"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxPower"; Value = "144W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO247"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "IRG4PH50U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TimeOnOff"; Value = "22ns/73ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeTransistor"; Value = "IGBT transistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IGBT transistor, 650V, 40A, 40nC, 144W, 2.1V, 22ns/73ns, TO247, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageCE"; Value = "650V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageSaturation"; Value = "2.1V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component X4 Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Added Room: Name=Sheet1

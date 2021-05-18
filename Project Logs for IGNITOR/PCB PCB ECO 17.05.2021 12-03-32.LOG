@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR3_2 Pin=JMP-1
+Removed Pin From Net: NetName=NetR3_2 Pin=JMP-2
+Added Component: Designator=VD5(LED: SFH757)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR17_1 Pin=VD5-1
+Added Pin To Net: NetName=NetC9_2 Pin=VD5-2
+Added Member To Class: ClassName=Sheet1 Member=Component VD5 SHF250
+Added Room: Name=Sheet1
